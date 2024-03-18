@@ -1,0 +1,1 @@
+document.getElementById("Message").innerHTML="Introvert Games Association"
