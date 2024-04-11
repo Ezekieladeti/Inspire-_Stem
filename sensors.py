@@ -26,4 +26,3 @@ while True:
     bt.gatts_write(0, json.dumps(data))
     
     time.sleep(2)  # Adjust the delay based on your needs
-
